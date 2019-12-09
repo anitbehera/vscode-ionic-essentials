@@ -1,0 +1,40 @@
+{
+    "name": "ionic-essentials",
+    "displayName": "Ionic Essentials",
+    "description": "Ionic essential extentions.",
+    "icon": "assets/ionic-icon.png",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/pinkpotato/vscode-ionic-essentials.git"
+    },
+  "keywords": [
+    "Ionic",
+    "Ionic Essentails",
+    "Ionic Extension pack",
+    "Ionic 2",
+    "ionic 3",
+    "Ionic 4"
+  ],
+    "version": "0.0.1",
+    "publisher": "pinkpotato",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "angular.ng-template",
+        "msjsdiag.cordova-tools",
+        "fivethree.vscode-ionic-snippets",
+        "danielehrhardt.ionic3-vs-ionview-snippets",
+        "johnpapa.angular2",
+        "msjsdiag.debugger-for-chrome",
+        "steoates.autoimport",
+        "formulahendry.auto-rename-tag",
+        "streetsidesoftware.code-spell-checker",
+        "esbenp.prettier-vscode",
+        "johnpapa.vscode-peacock"
+    ]
+}
