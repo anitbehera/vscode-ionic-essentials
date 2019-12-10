@@ -15,7 +15,7 @@
   "ionic 3",
   "Ionic 4"
 ],
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "pinkpotato",
   "engines": {
       "vscode": "^1.26.0"
