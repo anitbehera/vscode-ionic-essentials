@@ -18,7 +18,7 @@
   "version": "0.0.5",
   "publisher": "pinkpotato",
   "engines": {
-      "vscode": "^1.40.0"
+      "vscode": "^1.26.0"
   },
   "categories": [
       "Extension Packs"

@@ -1,5 +1,8 @@
 # VS Code Ionic Essentials Extension Pack
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/pinkpotato.ionic-essentials.svg)](https://marketplace.visualstudio.com/items?itemName=pinkpotato.ionic-essentials)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/pinkpotato.ionic-essentials.svg)](https://marketplace.visualstudio.com/items?itemName=pinkpotato.ionic-essentials)
+
 An Essentials Extension Pack for Ionic Development which has very useful extensions for Ionic Developers.
 
 ## Extentions Included
